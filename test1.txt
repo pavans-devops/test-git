@@ -1,3 +1,0 @@
-hello there
-Hello test file has been updated
-Hello there test file has been modified 3rd time
